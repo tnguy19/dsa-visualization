@@ -1,5 +1,10 @@
 # DSA Visualization Setup Instructions
 
+## Abstract and overview
+
+The project aims to provide an easy and intuitive way of understanding data structures and algorithms covered in class through visualization. This is a web application showcasing step-by-step how data structures like Fibonacci and Pair-Ranking Heap operates and how path-finding algorithms such as Bellman-Ford, Dijkstra, and Floyd-Marshall is done over a weighted graph. 
+
+
 ## Access the app using your web brower
 
 The app is acccessible using the link: https://tnguy19.github.io/dsa-visualization/
