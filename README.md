@@ -65,8 +65,3 @@ Before you begin, you need to install the following software on your laptop:
 
 2. **Outdated Node.js**: If you get errors related to Node.js versions, make sure you're using a version compatible with the project
 
-## Development Commands
-
-- `npm start`: Runs the app in development mode
-- `npm test`: Launches the test runner
-- `npm run build`: Builds the app for production in the 'build' folder
