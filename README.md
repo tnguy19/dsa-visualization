@@ -1,7 +1,10 @@
 # DSA Visualization Setup Instructions
 
+## Access the app using your web brower
 
-## Prerequisites
+The app is acccessible using the link: https://tnguy19.github.io/dsa-visualization/
+
+## Installing on your local machine
 
 Before you begin, you need to install the following software on your laptop:
 
